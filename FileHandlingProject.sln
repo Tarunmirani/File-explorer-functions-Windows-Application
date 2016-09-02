@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileHandlingProject", ".", "{F1788429-49B5-4EEF-B2B3-457A62103C41}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/FileHandlingProject"
+		Debug.AspNetCompiler.PhysicalPath = "E:\PROGRAMS\VB.Net\FileHandlingProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FileHandlingProject\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FileHandlingProject"
+		Release.AspNetCompiler.PhysicalPath = "E:\PROGRAMS\VB.Net\FileHandlingProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FileHandlingProject\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1303"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1788429-49B5-4EEF-B2B3-457A62103C41}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F1788429-49B5-4EEF-B2B3-457A62103C41}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
